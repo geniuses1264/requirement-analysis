@@ -220,4 +220,44 @@ Below is a use case diagram for a **Booking Management System**:
 
 ![Use Case Diagram for Booking System](alx-booking-uc.png)
 
+---
+
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** are specific, measurable conditions that a software feature must satisfy to be considered complete and acceptable by stakeholders. They are defined during requirement analysis to set clear expectations between clients, developers, and testers.
+
+Acceptance criteria are written **before development begins** and serve as a reference for:
+- Developers (to implement correctly)
+- Testers (to verify functionality)
+- Product Owners (to confirm delivery meets user needs)
+
+---
+
+### 🎯 Importance of Acceptance Criteria in Requirement Analysis
+
+- 🔍 **Clarifies Requirements**: Removes ambiguity by detailing what success looks like for each feature.
+- 🧪 **Enables Testability**: Provides a checklist for validation and quality assurance.
+- 🤝 **Aligns Expectations**: Ensures all stakeholders agree on the scope and behavior of a feature.
+- 📈 **Improves Planning**: Helps in estimating effort and setting realistic development goals.
+
+---
+
+### 🛒 Example: Checkout Feature – Booking Management System
+
+**Feature**: Checkout for booking a property
+
+**Acceptance Criteria**:
+
+1. ✅ The user must be logged in to access the checkout page.
+2. ✅ The selected listing details (property name, price, dates) must be prefilled on the checkout form.
+3. ✅ The user must be able to select a payment method (credit/debit card, PayPal).
+4. ✅ The system must validate the payment form before submission.
+5. ✅ Upon successful payment, the user should see a booking confirmation message.
+6. ✅ The system must send a confirmation email to both the user and the host.
+7. ✅ The booking status must be updated in the user’s dashboard as “Confirmed.”
+8. ✅ If the payment fails, the system should show an error and allow retry.
+
+---
+
+By defining strong and clear acceptance criteria like this, development becomes focused, testing becomes efficient, and the final product closely aligns with stakeholder expectations.
 
