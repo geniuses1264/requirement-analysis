@@ -218,7 +218,7 @@ Below is a use case diagram for a **Booking Management System**:
 - Add/Edit/Delete Listing (Host)
 - View All Bookings (Admin)
 
-![Use Case Diagram for Booking System](alx-booking-uc.png.png)
+![Use Case Diagram for Booking System](alx-booking-uc.png)
 
 ---
 
