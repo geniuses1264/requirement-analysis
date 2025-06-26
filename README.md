@@ -93,4 +93,51 @@ Requirements serve as a reference for system design, architecture, and test case
 
 By highlighting user needs, clarifying project expectations, and guiding the technical roadmap, **Requirement Analysis** helps turn great ideas into successful, sust
 
+---
+
+## 🛠️ Key Activities in Requirement Analysis
+
+Requirement Analysis involves several interconnected activities that help transform vague ideas into clear, actionable requirements. These activities ensure that the final software product meets both user needs and technical feasibility.
+
+Here are the five key activities involved:
+
+---
+
+- **📥 Requirement Gathering**
+  - Focuses on collecting raw information from stakeholders, users, and clients.
+  - Involves interviews, surveys, observations, meetings, and feedback sessions.
+  - The goal is to capture what the stakeholders need and expect from the system.
+
+---
+
+- **🧠 Requirement Elicitation**
+  - Goes deeper than gathering by drawing out implicit, unspoken, or hidden requirements.
+  - Uses techniques like brainstorming, workshops, role-playing, and prototyping.
+  - Helps uncover assumptions, clarify vague statements, and bring clarity to user intentions.
+
+---
+
+- **📝 Requirement Documentation**
+  - Converts gathered and elicited requirements into formal, structured documentation.
+  - Common outputs include Software Requirement Specifications (SRS), user stories, or use case diagrams.
+  - Ensures requirements are clear, consistent, and traceable.
+
+---
+
+- **📊 Requirement Analysis and Modeling**
+  - Involves examining and organizing requirements to identify gaps, conflicts, or dependencies.
+  - Uses models like data flow diagrams (DFDs), entity-relationship diagrams (ERDs), or UML.
+  - Helps visualize the system and refine requirements for feasibility and design readiness.
+
+---
+
+- **✅ Requirement Validation**
+  - Ensures the documented requirements accurately reflect user needs and business goals.
+  - Activities include reviews, walkthroughs, inspections, and requirement testing.
+  - Finalized requirements are signed off by stakeholders to proceed with system design.
+
+---
+
+Each of these activities plays a vital role in shaping a successful software solution. Skipping or rushing any of them can result in costly rework, user dissatisfaction, or project failure.
+---
 
