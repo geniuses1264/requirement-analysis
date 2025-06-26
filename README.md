@@ -141,3 +141,83 @@ Here are the five key activities involved:
 Each of these activities plays a vital role in shaping a successful software solution. Skipping or rushing any of them can result in costly rework, user dissatisfaction, or project failure.
 ---
 
+## 📂 Types of Requirements
+
+In software development, requirements are typically divided into two major categories: **Functional** and **Non-functional**. Both are essential in defining what the system does and how it behaves under various conditions.
+
+Below is a breakdown of each type with examples relevant to a **Booking Management Project**.
+
+---
+
+### 🛠️ Functional Requirements
+
+Functional requirements describe **what** the system should do. They define the specific behaviors, functions, and features that must be implemented.
+
+#### 📌 Examples for the Booking Management Project:
+
+- Users shall be able to **create an account** using email and password.
+- The system shall allow users to **search for available listings** based on location and date.
+- Guests shall be able to **book a property** for a specific period.
+- Hosts shall be able to **add, edit, or delete their property listings**.
+- The system shall **send booking confirmation emails** to both guest and host after a reservation is made.
+- Users shall be able to **cancel a booking** under specified conditions.
+- Admins shall be able to **view and manage all bookings** from a dashboard.
+
+---
+
+### ⚙️ Non-functional Requirements
+
+Non-functional requirements define **how** the system performs its functions. These relate to quality attributes such as performance, security, reliability, and usability.
+
+#### 📌 Examples for the Booking Management Project:
+
+- The system should respond to user queries (e.g., search results) **within 2 seconds**.
+- The website shall be **accessible on both desktop and mobile devices**.
+- User passwords shall be **encrypted** before being stored in the database.
+- The system shall maintain **99.9% uptime** to ensure availability during peak travel periods.
+- The platform shall **support up to 5,000 concurrent users** without performance degradation.
+- The system must log out users **after 15 minutes of inactivity** for security.
+- The application interface shall be **user-friendly and follow modern UI/UX principles**.
+
+---
+
+Understanding the distinction between functional and non-functional requirements ensures that both user expectations and system quality standards are properly met. Together, they form the backbone of a reliable, efficient, and user-centered software system.
+
+---
+
+## 🗂️ Use Case Diagrams
+
+**Use Case Diagrams** are a visual modeling tool used in requirement analysis to describe the functional interactions between users (actors) and the system. These diagrams help clarify what the system is expected to do from the user’s perspective and are especially useful for identifying features and workflows early in development.
+
+---
+
+### 🎯 Benefits of Use Case Diagrams
+
+- ✅ Provide a high-level overview of the system’s functionality
+- 👤 Identify all user roles (actors) interacting with the system
+- 🔍 Clarify relationships between users and specific actions
+- 🧠 Enhance communication among developers, designers, and stakeholders
+
+---
+
+### 🏨 Use Case Diagram: Booking System
+
+Below is a use case diagram for a **Booking Management System**:
+
+#### 👥 Actors:
+- Guest
+- Host
+- Admin
+
+#### 🎬 Use Cases:
+- Register/Login
+- Search Listings
+- View Listing Details
+- Book Property
+- Cancel Booking
+- Add/Edit/Delete Listing (Host)
+- View All Bookings (Admin)
+
+![Use Case Diagram for Booking System](alx-booking-uc.png)
+
+
